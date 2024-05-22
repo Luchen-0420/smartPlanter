@@ -21,4 +21,3 @@
 
 https://studio.intern-ai.org.cn/
 
-问卷中的核销码为邀请码，如额外需要充值算力或者其他任何疑问请联系浦语小助手(微信号搜索：InternLM)
