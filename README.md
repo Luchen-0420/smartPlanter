@@ -49,7 +49,7 @@
 
 
 ## 致谢
-- chat嬛嬛作者-不吃葱姜蒜。
+- 上海人工智能实验室。
 
 ## 联系方式
 - wechat：HelloWorld_testing
