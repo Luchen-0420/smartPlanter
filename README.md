@@ -29,36 +29,57 @@
 ![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
+#### 微信小程序真机演示图
 <table>
   <tr>
     <td>
       <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-      <p style="text-align:center">采集数据展示+远程控制</p>
+      <p>采集数据展示+远程控制</p>
     </td>
     <td>
-      <img src="imgs/image2.jpg" alt="Image 2" width="100"/>
-      <p>Description for Image 2</p>
+      <img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
+      <p>自动策略设置</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="imgs/个性聊天入口.png" alt="Description" style="width:300px;"/>
+      <p>个性聊天</p>
     </td>
     <td>
-      <img src="imgs/image3.jpg" alt="Image 3" width="100"/>
-      <p>Description for Image 3</p>
+      <img src="imgs/个性聊条.png" alt="Description" style="width:300px;"/>
+      <p>个性聊天</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="imgs/彩蛋（正）.png" alt="Description" style="width:300px;"/>
+      <p>彩蛋卡片正面</p>
     </td>
     <td>
-      <img src="imgs/image4.jpg" alt="Image 4" width="100"/>
-      <p>Description for Image 4</p>
+      <img src="imgs/彩蛋（反）.png" alt="Description" style="width:300px;"/>
+      <p>彩蛋卡片反面</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="imgs/专业问答入口.png" alt="Description" style="width:300px;"/>
+      <p>专业问答</p>
+    </td>
+    <td>
+      <img src="imgs/专业种植回答.png" alt="Description" style="width:300px;"/>
+      <p>专业问答</p>
     </td>
   </tr>
 </table>
 
-<p>
-  <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-  <img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
-</p>
-<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-<img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
-<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
+#### openxlab应用演示图
 
 ## 📝 模型及体验地址
 ### huggingface地址
