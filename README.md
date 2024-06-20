@@ -59,7 +59,7 @@
 
 
 ## 致谢
--[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/models/detail/test001/zql_luchen) 上海人工智能实验室
+- 上海人工智能实验室
 - 中国农业大学-王耀君老师团队
 - GPTSovits
 
