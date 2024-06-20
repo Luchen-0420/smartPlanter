@@ -29,6 +29,7 @@
 ![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
+![Alt text](imgs/采集数据+控制.png)
 
 ## 📝 模型及体验地址
 ### huggingface地址
