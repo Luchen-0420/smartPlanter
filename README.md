@@ -86,7 +86,7 @@
 
 ## 📝 模型及体验地址
 ### openxlab模型地址
-https://code.openxlab.org.cn/test001/zql_luchen.git
+[https://code.openxlab.org.cn/test001/zql_luchen.git](https://openxlab.org.cn/models/detail/test001/zql_luchen/tree/main)
 ### openxlab应用体验地址
 https://openxlab.org.cn/apps/detail/test001/test_hua_pen
 
