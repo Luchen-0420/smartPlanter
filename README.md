@@ -30,6 +30,7 @@
 
 ### 软件关键效果图
 ![Alt text](imgs/采集数据+控制.png)
+<img src="https://github.com/Luchen-0420/smartPlanter/imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
 
 ## 📝 模型及体验地址
 ### huggingface地址
