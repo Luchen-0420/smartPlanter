@@ -26,7 +26,7 @@
 
 
 ### 项目架构图
-![Alt text](architecture.png)
+![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
 
