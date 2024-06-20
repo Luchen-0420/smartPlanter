@@ -29,6 +29,31 @@
 ![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
+<table>
+  <tr>
+    <td>
+      <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
+      <p>采集数据展示+远程控制</p>
+    </td>
+    <td>
+      <img src="imgs/image2.jpg" alt="Image 2" width="100"/>
+      <p>Description for Image 2</p>
+    </td>
+    <td>
+      <img src="imgs/image3.jpg" alt="Image 3" width="100"/>
+      <p>Description for Image 3</p>
+    </td>
+    <td>
+      <img src="imgs/image4.jpg" alt="Image 4" width="100"/>
+      <p>Description for Image 4</p>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
+  <img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
+</p>
 <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
 <img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
 <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
