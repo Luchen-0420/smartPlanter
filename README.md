@@ -56,9 +56,10 @@
 
 ## 致谢
 - 上海人工智能实验室
-- GPTSovits
 - 中国农业大学-王耀君老师团队
+- GPTSovits
 
 ## 联系方式
+欢迎大家多多反馈~
 - wechat：HelloWorld_testing
 
