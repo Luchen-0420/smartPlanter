@@ -85,9 +85,10 @@
 <img src="imgs/openxlab应用.png" alt="Description"/>
 
 ## 📝 模型及体验地址
-### huggingface地址
-
+### openxlab模型地址
+https://code.openxlab.org.cn/test001/zql_luchen.git
 ### openxlab应用体验地址
+https://openxlab.org.cn/apps/detail/test001/test_hua_pen
 
 ## 🖥️ 耘生系列简介
   “耘生”不仅是一款家用种植系统，更是都市人连接自然、享受绿色生活的桥梁。我们致力于将传统的农耕文化与现代科技相融合，打造一个集生态种植、宠物共生、智能管理于一体的家庭绿色生态空间。通过“耘生”，我们希望每一位都市人都能在家中感受到大自然的魅力，享受到亲手耕耘的乐趣，体验与自然和谐共生的美好。<br>
