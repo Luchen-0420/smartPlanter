@@ -29,7 +29,10 @@
 ![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
-![Alt text](imgs/采集数据+控制.png)
+<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
+<img src="imgs/自动策略设置.png" alt="Description" style="width:300px;"/>
+<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
+<img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
 <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
 
 ## 📝 模型及体验地址
