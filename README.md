@@ -32,7 +32,7 @@
 ### 软件关键效果图
 #### 一、微信小程序真机演示图
 
-<table style="margin: auto;">
+<table style="margin: auto;border:0px;">
   <tr>
     <td style="text-align: center;">
       <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
