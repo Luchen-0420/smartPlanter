@@ -33,7 +33,7 @@
   <tr>
     <td>
       <img src="imgs/采集数据+控制.png" alt="Description" style="width:300px;"/>
-      <p>采集数据展示+远程控制</p>
+      <p style="text-align:center">采集数据展示+远程控制</p>
     </td>
     <td>
       <img src="imgs/image2.jpg" alt="Image 2" width="100"/>
