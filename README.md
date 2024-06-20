@@ -29,7 +29,7 @@
 ![Alt text](imgs/架构图.png)
 
 ### 软件关键效果图
-#### 微信小程序真机演示图
+#### 一、微信小程序真机演示图
 <table>
   <tr>
     <td>
@@ -79,7 +79,8 @@
   </tr>
 </table>
 
-#### openxlab应用演示图
+#### 二、openxlab应用演示图
+<img src="imgs/openxlab应用.png" alt="Description"/>
 
 ## 📝 模型及体验地址
 ### huggingface地址
