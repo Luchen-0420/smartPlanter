@@ -30,6 +30,10 @@
 
 ### 软件关键效果图
 
+## 📝 模型及体验地址
+### huggingface地址
+
+### openxlab应用体验地址
 
 ## 🖥️ 耘生系列简介
   “耘生”不仅是一款家用种植系统，更是都市人连接自然、享受绿色生活的桥梁。我们致力于将传统的农耕文化与现代科技相融合，打造一个集生态种植、宠物共生、智能管理于一体的家庭绿色生态空间。通过“耘生”，我们希望每一位都市人都能在家中感受到大自然的魅力，享受到亲手耕耘的乐趣，体验与自然和谐共生的美好。<br>
@@ -55,7 +59,7 @@
 
 
 ## 致谢
-- 上海人工智能实验室
+-[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/models/detail/test001/zql_luchen) 上海人工智能实验室
 - 中国农业大学-王耀君老师团队
 - GPTSovits
 
